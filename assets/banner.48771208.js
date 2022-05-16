@@ -1,1 +1,1 @@
-var s="./assets/banner.dfd73088.png";export{s as _};
+var a="/metaWall-front-end/assets/banner.dfd73088.png";export{a as _};
